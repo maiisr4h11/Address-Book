@@ -1,9 +1,12 @@
-import React from 'react'
+import React from 'react';
+import AddressBook from './components/AddressBook'; // Adjust the path if different
 
 function App() {
   return (
-    <div>App</div>
-  )
+    <div className="App">
+      <AddressBook />
+    </div>
+  );
 }
 
-export default App
+export default App;
