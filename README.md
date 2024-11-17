@@ -45,7 +45,7 @@ A simple contact management application built with React and Tailwind CSS that a
 4. Start the application:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
    The app will open in your default browser at [http://localhost:3000](http://localhost:3000).
