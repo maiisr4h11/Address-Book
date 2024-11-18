@@ -63,6 +63,7 @@ export default function Component() {
         <h1 contenteditable>
           Address Book
         </h1>
+        <p className="text-white dark:text-white text-center mt-0"> Hover me</p>
         <div className="flex items-center justify-end space-x-2">
           <span className="text-black dark:text-white"><LightModeIcon /></span>
           <label className="switch">
